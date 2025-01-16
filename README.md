@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2737-row-with-maximum-ones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -129,5 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
