@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0367-valid-perfect-square) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
