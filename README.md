@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2737-row-with-maximum-ones) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0274-h-index) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
