@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1944-truncate-sentence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2502-sort-the-people) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## String
