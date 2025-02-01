@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3429-special-array-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
