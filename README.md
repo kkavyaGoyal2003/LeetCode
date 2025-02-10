@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0739-daily-temperatures) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [2502-sort-the-people](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
+| [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Brainteaser
