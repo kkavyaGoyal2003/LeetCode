@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1944-truncate-sentence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2227-sum-of-subarray-ranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [3447-clear-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3447-clear-digits) |
 ## Counting Sort
 |  |
@@ -408,4 +410,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
