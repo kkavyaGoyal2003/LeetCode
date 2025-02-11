@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Matrix
 |  |
 | ------- |
@@ -422,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
