@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -434,5 +436,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
