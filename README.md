@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1755-defuse-the-bomb](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1755-defuse-the-bomb](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
