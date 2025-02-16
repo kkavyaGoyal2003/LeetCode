@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1944-truncate-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1944-truncate-sentence) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -446,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 ## Binary Search Tree
