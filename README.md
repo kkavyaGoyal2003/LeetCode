@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 ## String
 |  |
