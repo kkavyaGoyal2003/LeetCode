@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
