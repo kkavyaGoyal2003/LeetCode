@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-reduce-array-size-to-the-half](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1524-string-matching-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1651-shuffle-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -525,12 +526,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Design
 |  |
