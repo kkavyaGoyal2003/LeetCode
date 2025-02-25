@@ -4,14 +4,20 @@ class Solution {
         if(n == 0) return 0;
         if(n == 1) return 1;
 
+        HashMap<Character, Integer> map = new HashMap<>();
+        int i = 0;
+        int j = 0;
         int maxLen = 0;
-        for(int i = 0; i < n; i++) {
-            int hash[] = new int[256];
-            for(int j = i; j < n; j++) {
-                if(hash[s.charAt(j)] == 1) break;
-                maxLen = Math.max(maxLen, j - i +1);
-                hash[s.charAt(j)] = 1;
-            }
+
+        while(j < n) {
+            int len = 0;
+            if(map.containsKey(s.charAt(j))) {
+                i = Math.max(i,map.get(s.charAt(j)) + 1);
+            } 
+            len = j - i + 1;
+            maxLen = Math.max(maxLen, len);
+            map.put(s.charAt(j), j);
+            j++;
         }
         return maxLen;
     }
