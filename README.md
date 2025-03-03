@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2561-number-of-distinct-averages) |
@@ -529,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2551-apply-operations-to-an-array) |
