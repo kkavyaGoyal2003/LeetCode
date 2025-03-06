@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Binary Tree
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2384-root-equals-sum-of-children) |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Quickselect
 |  |
 | ------- |
