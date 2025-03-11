@@ -1,14 +1,23 @@
 class Solution {
     public int numberOfSubstrings(String s) {
 		int len = s.length();
-		int[] lastseen = new int[3];
-        Arrays.fill(lastseen, -1);
-        int count = 0;
+		HashMap<Character, Integer> map = new HashMap<>();
+		int count = 0;
+		int l = 0;
+		int r = 0;
 
-        for(int i = 0; i < len; i++) {
-            lastseen[s.charAt(i) - 'a'] = i;
-            count += (1 + Math.min(lastseen[0], Math.min(lastseen[1], lastseen[2])));
-        }
+		while(r < len) {
+            map.put(s.charAt(r), map.getOrDefault(s.charAt(r), 0) + 1);
+            r++;
+			while(map.size() >= 3) {
+                if(map.size() == 3) {
+                    count += len - (r - 1);
+                }
+                map.put(s.charAt(l), map.get(s.charAt(l))- 1);
+                if(map.get(s.charAt(l)) == 0) map.remove(s.charAt(l));
+                l++;
+            }
+		}
 
 		return count;
     }
