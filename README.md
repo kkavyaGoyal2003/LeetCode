@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
 | [0164-maximum-gap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0455-assign-cookies) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Game Theory
 |  |
