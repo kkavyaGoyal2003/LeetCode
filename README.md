@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1731-even-odd-tree) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1731-even-odd-tree) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 ## Math
 |  |
 | ------- |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0455-assign-cookies) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1464-reduce-array-size-to-the-half](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1464-reduce-array-size-to-the-half) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -645,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Quickselect
 |  |
