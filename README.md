@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2502-sort-the-people) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Brainteaser
