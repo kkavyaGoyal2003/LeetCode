@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3429-special-array-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Hash Table
 |  |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Design
 |  |
