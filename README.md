@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0455-assign-cookies) |
