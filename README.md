@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1651-shuffle-string) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1677-matrix-diagonal-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
