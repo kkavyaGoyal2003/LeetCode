@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2128-reverse-prefix-of-word](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 ## Design
