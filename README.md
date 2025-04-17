@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-convert-date-to-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
+| [3830-find-closest-person](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3830-find-closest-person) |
 ## Greedy
 |  |
 | ------- |
