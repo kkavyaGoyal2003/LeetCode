@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1839-decode-xored-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1839-decode-xored-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1944-truncate-sentence) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1944-truncate-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1944-truncate-sentence) |
 | [1970-sorting-the-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1970-sorting-the-sentence) |
 | [2032-largest-odd-number-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
