@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
+| [2639-separate-the-digits-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -676,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2639-separate-the-digits-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3447-clear-digits) |
 | [3790-fruits-into-baskets-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
