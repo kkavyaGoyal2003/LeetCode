@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3429-special-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Brainteaser
 |  |
 | ------- |
