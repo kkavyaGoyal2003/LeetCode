@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2411-spiral-matrix-iv](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2411-spiral-matrix-iv) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2447-merge-similar-items) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2447-merge-similar-items](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2502-sort-the-people) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Heap (Priority Queue)
