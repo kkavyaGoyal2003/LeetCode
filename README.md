@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0572-subtree-of-another-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
