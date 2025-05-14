@@ -646,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0838-design-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0838-design-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -843,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0838-design-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0838-design-linked-list) |
 ## Queue
 |  |
 | ------- |
