@@ -1,45 +1,37 @@
 class MyQueue {
-    Stack<Integer> s1 = new Stack<>();
-    Stack<Integer> s2 = new Stack<>();
+    Stack<Integer> enque;
+    Stack<Integer> deque;
 
     public MyQueue() {
-    
+        enque = new Stack<>();
+        deque = new Stack<>();
+
     }
     
     public void push(int x) {
-        s1.push(x);
+        enque.push(x);
     }
     
     public int pop() {
-        while(!s1.isEmpty()) {
-            s2.push(s1.pop());
+        if(deque.isEmpty()) {
+            while(!enque.isEmpty()) {
+                deque.push(enque.pop());
+            }
         }
-
-        int x =  s2.pop();
-
-        while(!s2.isEmpty()) {
-            s1.push(s2.pop());
-        }
-
-        return x;
+        return deque.pop();
     }
     
     public int peek() {
-        while(!s1.isEmpty()) {
-            s2.push(s1.pop());
+        if(deque.isEmpty()) {
+            while(!enque.isEmpty()) {
+                deque.push(enque.pop());
+            }
         }
-
-        int x =  s2.peek();
-
-        while(!s2.isEmpty()) {
-            s1.push(s2.pop());
-        }
-
-        return x;
+        return deque.peek();
     }
     
     public boolean empty() {
-        return s1.isEmpty();
+        return (enque.isEmpty() && deque.isEmpty());
     }
 }
 
