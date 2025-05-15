@@ -364,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -888,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Quickselect
