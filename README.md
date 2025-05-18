@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1241-decompress-run-length-encoded-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
+| [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1293-three-consecutive-odds](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1310-watering-plants) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0898-transpose-matrix) |
+| [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1677-matrix-diagonal-sum) |
