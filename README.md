@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3447-clear-digits) |
 | [3567-convert-date-to-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
