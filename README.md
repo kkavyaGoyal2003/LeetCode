@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1005,4 +1007,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2447-merge-similar-items](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2447-merge-similar-items) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
