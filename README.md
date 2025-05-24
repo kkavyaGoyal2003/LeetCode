@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
+| [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 ## Game Theory
 |  |
