@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3311-ant-on-the-boundary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -880,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3311-ant-on-the-boundary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -966,6 +968,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [3311-ant-on-the-boundary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
