@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0958-sort-array-by-parity-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1019-squares-of-a-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0898-transpose-matrix) |
+| [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -931,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 ## Game Theory
 |  |
 | ------- |
