@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0898-transpose-matrix) |
 | [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
