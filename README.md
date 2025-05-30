@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0164-maximum-gap) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0217-contains-duplicate) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0148-sort-list) |
