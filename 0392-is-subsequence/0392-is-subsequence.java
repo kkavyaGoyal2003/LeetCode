@@ -1,16 +1,15 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int i = 0;
-        int j = 0;
+        return isSeq( s, t, 0, 0);
+    }
 
-        while(i < s.length() && j < t.length()) {
-            if(s.charAt(i) == t.charAt(j)) {
-                i++;
-            }
-            j++;
-            
-        }
-        if(i == s.length()) return true;
-        return false;
+    public boolean isSeq(String s, String t, int sInd, int tInd) {
+        if(sInd == s.length()) return true;
+        if(tInd == t.length()) return false;
+
+        if(s.charAt(sInd) == t.charAt(tInd)) return isSeq( s, t, sInd + 1, tInd + 1);
+
+        return  isSeq( s, t, sInd, tInd + 1);
     }
 }
+
