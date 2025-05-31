@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
