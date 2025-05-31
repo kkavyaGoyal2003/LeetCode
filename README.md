@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
+| [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1078-remove-outermost-parentheses) |
