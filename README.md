@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0148-sort-list) |
