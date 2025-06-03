@@ -15,20 +15,19 @@
  */
 class Solution {
     TreeNode prev = null;
-    boolean flag = true;
     public boolean isValidBST(TreeNode root) {
-        inorder(root);
-        return flag;
+        
+        return inorder(root);
     }
 
-    public void inorder(TreeNode root) {
-        if(root == null) return;
+    public boolean inorder(TreeNode root) {
+        if(root == null) return true;
 
-        inorder(root.left);
-        if(prev != null && root.val <= prev.val) {
-            flag = false;
-        }
+        if(!inorder(root.left)) return false;
+
+        if(prev != null && root.val <= prev.val) return false;
         prev = root;
-        inorder(root.right);
+
+       return inorder(root.right);
     }
 }
