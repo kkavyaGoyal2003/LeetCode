@@ -15,18 +15,17 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        if(root.left == null && root.right == null) return root.val;
-        return sum(root, 0);
+        rootToLeaf(root, 0);
+        return total;
     }
+    int total = 0;
+    public void rootToLeaf(TreeNode node, int curr) {
+        if(node == null) return;
 
-    public int sum(TreeNode node, int total) {
-        if(node == null) return 0;
+        curr = (curr*10) + node.val;
+        if(node.left == null && node.right == null) total+= curr;
 
-        total = (total * 10) + node.val;
-        if (node.left == null && node.right == null) {
-            return total;
-        }
-
-        return sum(node.left, total) + sum(node.right, total);
+        rootToLeaf(node.left, curr);
+        rootToLeaf(node.right, curr);
     }
 }
