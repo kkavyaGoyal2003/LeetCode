@@ -4,18 +4,14 @@ class Solution {
         if(len < 2) return len;
 
         int i = 0;
-        int j = 0;
-        HashSet<Character> set = new HashSet<>();
+        HashMap<Character, Integer> map = new HashMap<>();
         int max = 0;
-        while(i < len && j < len) {
-            if(set.contains(s.charAt(j))) {
-                set.remove(s.charAt(i));
-                i++;
-            } else {
-                set.add(s.charAt(j));
-                max = Math.max(max, j-i+1);
-                j++;
+        for(int j = 0; j < len; j++) {
+            if(map.containsKey(s.charAt(j))) {
+                i = Math.max(map.get(s.charAt(j))+1, i);
             }
+            map.put(s.charAt(j), j);
+            max = Math.max(max, j-i+1);
         }
 
         return max;
