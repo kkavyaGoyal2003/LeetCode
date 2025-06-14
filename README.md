@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1124,4 +1128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
