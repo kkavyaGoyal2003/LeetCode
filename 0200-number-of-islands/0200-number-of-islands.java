@@ -8,23 +8,27 @@ class Solution {
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 if(grid[i][j] == '1') {
-                    islands(grid, i, j, dir);
-                    count++; 
+                    Queue<Integer> que = new LinkedList<>();
+                    grid[i][j] = '0';
+                    que.add(i);
+                    que.add(j);
+                    while(!que.isEmpty()) {
+                        int r = que.poll();
+                        int c = que.poll();
+                        for(int[] d : dir) {
+                            int cr = d[0] + r;
+                            int cc = d[1] + c;
+                            if(cr >= 0 && cr < m && cc >= 0 && cc < n && grid[cr][cc] == '1') {
+                                grid[cr][cc] = '0';
+                                que.add(cr);
+                                que.add(cc);
+                            }
+                        }
+                    }
+                    count++;
                 }
             }
         }
         return count;
-    }
-    public void islands(char[][] grid, int r, int c, int[][] dir) {
-        if(r < 0 || c < 0 || r >= grid.length || c >= grid[0].length || grid[r][c] == '0') return;    
-        
-        grid[r][c] = '0';
-
-        for(int[] d : dir) {
-            int cr = d[0] + r;
-            int cc = d[1] + c;
-            islands(grid, cr, cc, dir);
-        }
-        
     }
 }
