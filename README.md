@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
