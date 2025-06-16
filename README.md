@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -858,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
