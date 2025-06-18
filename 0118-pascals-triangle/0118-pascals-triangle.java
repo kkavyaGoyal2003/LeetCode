@@ -10,11 +10,10 @@ class Solution {
         return result;
     }
     private void generateTree(int r) {
-        List<Integer> prev = result.get(r-1);
         List<Integer> row = new ArrayList<>();
         row.add(1);
         for(int i = 1; i < r; i++) {
-            int val = (prev.get(i-1) + prev.get(i));
+            int val = (result.get(r-1).get(i-1) + result.get(r-1).get(i));
             row.add(val);
         }
         row.add(1);
