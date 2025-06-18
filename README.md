@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0202-happy-number) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0289-game-of-life) |
