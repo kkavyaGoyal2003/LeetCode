@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0056-merge-intervals) |
@@ -938,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
