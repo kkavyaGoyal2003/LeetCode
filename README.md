@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0101-symmetric-tree) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
@@ -941,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
 | [2107-find-unique-binary-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2107-find-unique-binary-string) |
