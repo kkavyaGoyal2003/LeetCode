@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -897,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -968,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [2107-find-unique-binary-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
 |  |
@@ -1063,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
@@ -1193,4 +1197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0207-course-schedule) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
