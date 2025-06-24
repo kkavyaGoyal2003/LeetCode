@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0404-sum-of-left-leaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0838-design-linked-list) |
@@ -1144,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -1201,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Graph
 |  |
 | ------- |
