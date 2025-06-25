@@ -17,23 +17,19 @@ class Solution {
             }
         }
 
-        int dis = 1;
         while(!que.isEmpty()) {
-            int len = que.size();
-            for(int i = 0; i < len/2; i++) {
-                int cr = que.poll();
-                int cc = que.poll();
-                for(int[] d : dir) {
-                    int nr = d[0] + cr;
-                    int nc = d[1] + cc;
-                    if(nr >= 0 && nr < m && nc >= 0 && nc < n && mat[nr][nc] == -1) {
-                        mat[nr][nc] = dis;
-                        que.add(nr);
-                        que.add(nc); 
-                    }
+            int cr = que.poll();
+            int cc = que.poll();
+            for(int[] d : dir) {
+                int nr = d[0] + cr;
+                int nc = d[1] + cc;
+                if(nr >= 0 && nr < m && nc >= 0 && nc < n && mat[nr][nc] == -1) {
+                    mat[nr][nc] = mat[cr][cc] + 1;
+                    que.add(nr);
+                    que.add(nc); 
                 }
             }
-            dis++;
+            
         }
         
         return mat;
