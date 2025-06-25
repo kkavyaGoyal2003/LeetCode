@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0682-baseball-game) |
+| [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0713-subarray-product-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0783-search-in-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -965,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1005-univalued-binary-tree) |
