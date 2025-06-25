@@ -20,20 +20,18 @@ class Solution {
 
         for(int i = 1; i < n+1; i++) {
             if(visited[i] == 0) {
-                Queue<Integer> que = new LinkedList<>();
-                visited[i] = 1; 
-                que.add(i);
                 province++;
-                while(!que.isEmpty()) {
-                    for(int j : adj.get(que.poll())) {
-                        if(visited[j] == 0) {
-                            visited[j] = 1;
-                            que.add(j);
-                        }
-                    }
-                }
+                dfs(i, visited, adj);
             }
         }
         return province;
     }
+    private void dfs(int index, int[] visited, ArrayList<ArrayList<Integer>> adj) {
+        visited[index] = 1;
+        for(int d : adj.get(index)) {
+            if(visited[d] == 0) dfs(d, visited, adj);
+        }
+    }
+
+
 }
