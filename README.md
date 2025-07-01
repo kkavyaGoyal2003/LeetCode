@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
 | [0941-sort-array-by-parity](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [1078-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1078-remove-outermost-parentheses) |
