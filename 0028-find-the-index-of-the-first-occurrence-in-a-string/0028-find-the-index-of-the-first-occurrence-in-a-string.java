@@ -1,20 +1,24 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int hlen = haystack.length();
-        int nlen = needle.length();
-        int i = 0;
-        int j = 0;
-
-        while(i < hlen) {
+        int h = haystack.length();
+        int n = needle.length();
+        
+        int i = 0, j = 0;
+        while(i < h) {
             if(haystack.charAt(i) == needle.charAt(j)) {
                 i++;
                 j++;
-                if(j == nlen) return i - j;
-            } else {
-                i = i - j + 1;
-                j = 0;
+            } else{
+                if(j == 0) {
+                    i++;
+                } else {
+                    j = 0;
+                    i = (i-j+1);
+                }
             }
+            if(j == n) return i-j;
         }
+
         return -1;
     }
 }
