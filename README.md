@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0273-integer-to-english-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0344-reverse-string) |
@@ -755,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0263-ugly-number) |
+| [0273-integer-to-english-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -934,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2573-remove-nodes-from-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
