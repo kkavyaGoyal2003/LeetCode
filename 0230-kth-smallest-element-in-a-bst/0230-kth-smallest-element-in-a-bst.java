@@ -18,19 +18,16 @@ class Solution {
         return inorder(root, k);
     }
     int count = 0;
-    int res = -1;
     private int inorder(TreeNode root, int k) {
-        if(root == null || count > k) return res;
+        if(root == null || count > k) return Integer.MAX_VALUE;
 
-        inorder(root.left, k);
+        int left = inorder(root.left, k);
         count++;
-        if(count == k) {
-            res =  root.val;
-            return res;
-        }
-        
-        inorder(root.right, k);
+        if(count == k) return root.val;
+        int right = inorder(root.right, k);
 
-        return res;
+        if(left != Integer.MAX_VALUE) return left;
+        if(right != Integer.MAX_VALUE) return right;
+        return Integer.MAX_VALUE;
     }
 }
