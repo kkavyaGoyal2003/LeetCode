@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0682-baseball-game) |
 | [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0713-subarray-product-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0739-daily-temperatures) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
+| [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
 | [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0812-rotate-string) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0648-replace-words) |
+| [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
