@@ -17,6 +17,7 @@ class Solution {
                 swap(nums, nums[i]-1, i);
                 count++;
             }
+            if(nums[i] != i+1) return;
             i++;
         }
     }
