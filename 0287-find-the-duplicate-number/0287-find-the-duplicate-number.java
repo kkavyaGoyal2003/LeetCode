@@ -1,23 +1,28 @@
 class Solution {
     public int findDuplicate(int[] nums) {
         int n = nums.length;
-        HashSet<Integer> set = new HashSet<>();
-
-        int sum = 0;
-        for(int i : nums) {
-            if(set.contains(i)) return i;
-            set.add(i);
+        cyclicSort(nums);
+        for(int i = 0; i < n; i++) {
+            if(nums[i] != i+1) return nums[i];
         }
-
         return -1;
-
-        // Arrays.sort(nums);
-        // for(int i = 1; i < n; i++) {
-        //     if(nums[i-1] == nums[i]) return nums[i]; 
-        // }
-
-        // return -1;
-
-
+    }
+    private void cyclicSort(int[] nums) {
+        int count = 0;
+        int n = nums.length;
+        int i = 0;
+        while(i < n) {
+            count = 0;
+            while(nums[i] != i+1 && count < n) {
+                swap(nums, nums[i]-1, i);
+                count++;
+            }
+            i++;
+        }
+    }
+    private void swap(int[] nums, int i, int j) {
+        int temp = nums[i];
+        nums[i] = nums[j];
+        nums[j] = temp;
     }
 }
