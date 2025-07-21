@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
@@ -1246,6 +1247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0460-lfu-cache](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0460-lfu-cache) |
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
@@ -1316,6 +1318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0284-peeking-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Graph
 |  |
