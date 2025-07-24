@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0740-delete-and-earn](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0740-delete-and-earn) |
+| [0768-partition-labels](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0768-partition-labels](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0812-rotate-string) |
@@ -838,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
@@ -892,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0768-partition-labels](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
