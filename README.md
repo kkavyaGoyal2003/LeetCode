@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0225-implement-stack-using-queues) |
