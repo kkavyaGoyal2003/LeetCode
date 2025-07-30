@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -1063,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1096,6 +1098,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [2107-find-unique-binary-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2107-find-unique-binary-string) |
 ## Monotonic Stack
