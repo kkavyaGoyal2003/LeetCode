@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1072-next-greater-node-in-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1297-maximum-number-of-balloons](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1358,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0547-number-of-provinces) |
+| [1039-find-the-town-judge](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
