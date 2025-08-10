@@ -1,14 +1,23 @@
 class Solution {
     public boolean canJump(int[] nums) {
         int n = nums.length;
-        int maxIndex = 0;
+        if(n == 1) return true;
+        if(nums[0] == 0) return false;
 
-        for(int i = 0; i < n; i++) {
-            if(i > maxIndex) return false;
-            maxIndex = Math.max(maxIndex, i+nums[i]);
-            if(maxIndex > n-1) return true;
+        HashSet<Integer> set = new HashSet<>();
+        Queue<Integer> que = new LinkedList<>();
+        que.offer(0);
+        set.add(0);
+    
+        while(!que.isEmpty()) {
+            int curr  = que.poll();
+            for(int j = 1; j <= nums[curr]; j++) {
+                int pos = curr + j;
+                if(pos == n-1) return true;
+                if(!set.contains(pos)) que.add(pos);
+                set.add(pos);
+            }
         }
-
-        return true;
+        return false;
     }
 }
