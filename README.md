@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0164-maximum-gap) |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0455-assign-cookies) |
