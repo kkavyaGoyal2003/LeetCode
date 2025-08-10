@@ -2,28 +2,18 @@ class Solution {
     public int jump(int[] nums) {
         int n = nums.length;
         if(n < 2)return 0;
+        int curr = nums[0];
         int steps = 1;
-        Queue<Integer> que = new LinkedList<>();
-        HashSet<Integer> set = new HashSet<>();
+        int next = curr;
 
-        que.offer(0);
-        set.add(0);
-        while(!que.isEmpty()) {
-            int len = que.size();
-            for(int i = 0; i < len; i++) {
-                int curr = que.poll();
-                for(int j = 1; j < nums[curr] + 1; j++) {
-                    int pos = curr + j;
-                    if(pos == n-1) return steps;
-                    if(!set.contains(pos)) {
-                        que.offer(pos);
-                        set.add(pos);
-                    }
-                }
+        for(int i = 1; i < n; i++){
+            next = Math.max(next, nums[i] + i);
+            if(i == curr) {
+                curr = next;
+                if(i != n-1) steps++;
             }
-            steps++;
         }
 
         return steps;
-    }
+    } 
 }
