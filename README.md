@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0051-n-queens) |
@@ -846,6 +847,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0402-remove-k-digits) |
@@ -1201,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0062-unique-paths) |
