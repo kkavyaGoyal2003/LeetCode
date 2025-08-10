@@ -3,21 +3,19 @@ class Solution {
         int n = nums.length;
         if(n == 1) return true;
         if(nums[0] == 0) return false;
+        HashSet<Integer> dp = new HashSet<>();
+        return dfs(nums, 0, dp);
+        
+    }
+    private boolean dfs(int[] nums, int curr, HashSet<Integer> dp) {
+        if(curr == nums.length -1 ) return true ;
+        if(dp.contains(curr)) return false;
 
-        HashSet<Integer> set = new HashSet<>();
-        Queue<Integer> que = new LinkedList<>();
-        que.offer(0);
-        set.add(0);
-    
-        while(!que.isEmpty()) {
-            int curr  = que.poll();
-            for(int j = 1; j <= nums[curr]; j++) {
-                int pos = curr + j;
-                if(pos == n-1) return true;
-                if(!set.contains(pos)) que.add(pos);
-                set.add(pos);
-            }
+        for(int i = 1; i <= nums[curr]; i++) {
+
+            if(dfs(nums, curr+i, dp)) return true;
         }
+        dp.add(curr);
         return false;
     }
 }
