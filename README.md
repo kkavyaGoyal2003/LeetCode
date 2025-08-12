@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1147,6 +1148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1310-watering-plants](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1310-watering-plants) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1382-calculate-amount-paid-in-taxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
