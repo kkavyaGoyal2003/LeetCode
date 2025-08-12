@@ -6,20 +6,19 @@ class Solution {
         int x = 0;
         int y = 0;
         int pos = 0;
-        for(int i = 0; i < 4; i++) {
-            for(int j = 0; j < len; j++) {
-                char c = instructions.charAt(j);
-                if(c == 'G') {
-                   x += dir[pos][0];
-                   y += dir[pos][1]; 
-                } else if(c == 'R') {
-                    pos = (pos + 3) % 4;
-                } else {
-                    pos = (pos + 1) % 4;
-                }
+        for(int j = 0; j < len; j++) {
+            char c = instructions.charAt(j);
+            if(c == 'G') {
+                x += dir[pos][0];
+                y += dir[pos][1]; 
+            } else if(c == 'R') {
+                pos = (pos + 3) % 4;
+            } else {
+                pos = (pos + 1) % 4;
             }
         }
-
-        return x == 0 && y == 0;
+        if(x == 0 && y == 0) return true;
+        if(pos != 0) return true;
+        return false;
     }
 }
