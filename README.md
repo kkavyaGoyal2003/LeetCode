@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0125-valid-palindrome) |
@@ -1223,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
