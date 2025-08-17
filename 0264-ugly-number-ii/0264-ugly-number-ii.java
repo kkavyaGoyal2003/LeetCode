@@ -1,28 +1,24 @@
 class Solution {
     public int nthUglyNumber(int n) {
-        int p2 = 0, p3 = 0, p5 = 0;
-        int n2 = 0, n3 = 0, n5 = 0;
-        int count = 1;
-        int[] temp = new int[n];
-        temp[0] = 1;
+        PriorityQueue<Long> pq = new PriorityQueue<>();
+        HashSet<Long> set = new HashSet<>();
+        int[] pf = new int[] {2, 3, 5};
 
-        while(count != n) {
-            n2 = 2*temp[p2];
-            n3 = 3*temp[p3];
-            n5 = 5*temp[p5];
-            int min = Math.min(n2, Math.min(n3, n5));
-            temp[count++] = min;
+        long num = 1l;
+        pq.offer(num);
+        set.add(num);
 
-            if(n2 == min) {
-                p2++;
-            } 
-            if(n3 == min) {
-                p3++;
-            }
-            if(n5 == min) {
-                p5++;
+        while(n > 0) {
+            num = (pq.poll());
+            n--;
+            for(int i : pf) {
+                long temp = num * i;
+                if(!set.contains(temp)) {
+                    pq.offer(temp);
+                    set.add(temp);
+                }
             }
         }
-        return temp[n-1];
+        return (int)num;
     }
 }
