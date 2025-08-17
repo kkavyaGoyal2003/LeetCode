@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0164-maximum-gap) |
@@ -1034,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0268-missing-number) |
