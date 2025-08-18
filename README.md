@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
+| [0529-minesweeper](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0529-minesweeper) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0561-array-partition) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0289-game-of-life) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0529-minesweeper) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0547-number-of-provinces) |
