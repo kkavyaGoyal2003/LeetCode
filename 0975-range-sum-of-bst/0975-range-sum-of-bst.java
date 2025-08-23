@@ -14,24 +14,20 @@
  * }
  */
 class Solution {
-    int sum = 0;
     public int rangeSumBST(TreeNode root, int low, int high) {
+        Stack<TreeNode> stk = new Stack<>();
+        int sum = 0;
 
-        if(root == null) return sum; 
-
-        if(root.val >= low && root.val <= high) {
-            sum += root.val;
-        }
-
-        if(root.val == low)  {
-            rangeSumBST(root.right, low, high);
-        }
-        else if(root.val == high) {
-            rangeSumBST(root.left, low, high);
-
-        } else {
-            rangeSumBST(root.left, low, high);
-            rangeSumBST(root.right, low, high);
+        while(!stk.isEmpty() || root != null) {
+            while(root != null) {
+                stk.push(root);
+                if(root.val <= low) break;
+                root = root.left;
+            }
+            root = stk.pop();
+            if(root.val >= low && root.val <= high) sum += root.val;
+            if(root.val >= high) break;
+            root = root.right;
         }
 
         return sum;
