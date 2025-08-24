@@ -4,7 +4,6 @@ class Solution {
         int n = indices.length;
         StringBuilder sr = new StringBuilder();
         HashMap<Integer, Integer> map = new HashMap<>();
-        boolean[] arr = new boolean[len];
 
         for(int i = 0; i < n; i++) {
             String temp = sources[i];
@@ -16,13 +15,6 @@ class Solution {
             }
             if(j == temp.length())  {
                 map.put(indices[i], i);
-                int count = temp.length();
-                int pos = indices[i];
-                while(count > 0){
-                    arr[pos] = true;
-                    pos++;
-                    count--;
-                }
             }
         }
         
