@@ -470,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0862-find-and-replace-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0862-find-and-replace-in-string) |
+| [0886-score-of-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -995,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0886-score-of-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1072-next-greater-node-in-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
