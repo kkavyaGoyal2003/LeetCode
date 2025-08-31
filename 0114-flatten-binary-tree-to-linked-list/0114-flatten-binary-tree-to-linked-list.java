@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    TreeNode prev = null;
     public void flatten(TreeNode root) {
-        postOrder(root);
+        dfs(root);
     }
-    private void postOrder(TreeNode node) {
-        if(node != null) {
-            postOrder(node.right);
-            postOrder(node.left);
-            node.left = null;
-            node.right = prev;
-            prev = node;
-        }
+    TreeNode temp = null;
+    private void dfs(TreeNode node) {
+        if(node == null) return;
+
+        dfs(node.right);
+        dfs(node.left);
+        node.right = temp;
+        node.left = null;
+        temp = node;
     }
 }
