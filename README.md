@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1072-next-greater-node-in-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1121-partition-array-for-maximum-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
@@ -907,6 +908,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1033-broken-calculator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1033-broken-calculator) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1285-balance-a-binary-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
