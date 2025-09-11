@@ -14,37 +14,27 @@ class Solution {
             int val = ele.getValue();
 
             if(val >= n) {
-                int t = changeTops(tops, bottoms, key);
-                int b = changeBottoms(tops, bottoms, key);
-                if(t != -1 && b != -1) {
-                    min = Math.min(min, Math.min(t, b));
-                } else if (t != -1) {
-                    min = Math.min(min, t);
-                } else {
-                    min = Math.min(min, b);
-                }
+                int count = changeTops(tops, bottoms, key);
+                System.out.println(min + "   " + count);
+                if(count != -1) min = Math.min(min, count);
+
             }
         }
         if(min == Integer.MAX_VALUE) return -1;
         return min;
     }
     private int changeTops(int[] tops, int[] bottoms, int key) {
-        int count = 0;
+        int t = 0;
+        int b = 0;
         for(int i = 0; i < tops.length; i++) {
             if(tops[i] != key &&  bottoms[i] != key) return -1;
-            if(tops[i] == key) continue;
-            if(bottoms[i] == key) count++;
+            if(tops[i] == key &&  bottoms[i] == key) continue;
+            if(tops[i] == key) b++;
+            if(bottoms[i] == key) t++;
         } 
+        System.out.println(t + "   " + b);
 
-        return count;
+        return Math.min(t, b);
     }
-    private int changeBottoms(int[] tops, int[] bottoms, int key) {
-        int count = 0;
-        for(int i = 0; i < tops.length; i++) {
-            if(tops[i] != key &&  bottoms[i] != key) return -1;
-            if(bottoms[i] == key) continue;
-            if(tops[i] == key) count++;
-        } 
-        return count;
-    }
+
 }
