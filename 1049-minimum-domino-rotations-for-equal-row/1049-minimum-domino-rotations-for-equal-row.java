@@ -1,27 +1,9 @@
 class Solution {
     public int minDominoRotations(int[] tops, int[] bottoms) {
         int n = tops.length;
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-        for(int i = 0; i < n; i++) {
-            map.put(tops[i], map.getOrDefault(tops[i], 0) + 1);
-            map.put(bottoms[i], map.getOrDefault(bottoms[i], 0) + 1);
-        }
-
-        int min = Integer.MAX_VALUE;
-        for(Map.Entry<Integer, Integer> ele : map.entrySet()) {
-            int key  = ele.getKey();
-            int val = ele.getValue();
-
-            if(val >= n) {
-                int count = changeTops(tops, bottoms, key);
-                System.out.println(min + "   " + count);
-                if(count != -1) min = Math.min(min, count);
-
-            }
-        }
-        if(min == Integer.MAX_VALUE) return -1;
-        return min;
+        int count = changeTops(tops, bottoms, tops[0]);
+        if(count != -1) return count;
+        return changeTops(tops, bottoms, bottoms[0]);
     }
     private int changeTops(int[] tops, int[] bottoms, int key) {
         int t = 0;
