@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1033-broken-calculator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1033-broken-calculator) |
 | [1119-robot-bounded-in-circle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1236-n-th-tribonacci-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -1305,6 +1306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -1429,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Union Find
 |  |
 | ------- |
