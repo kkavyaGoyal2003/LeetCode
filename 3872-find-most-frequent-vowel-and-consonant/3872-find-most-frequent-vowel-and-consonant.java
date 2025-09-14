@@ -5,7 +5,8 @@ class Solution {
 
         int max1 = 0;
         int max2 = 0;
-        for(char c : s.toCharArray()) {
+        for(int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
             if(c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
                 vowel.put(c, vowel.getOrDefault(c, 0) + 1);
                 max1 = Math.max(max1, vowel.get(c));
