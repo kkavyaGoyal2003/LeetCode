@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0504-base-7](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0648-replace-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0648-replace-words) |
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
@@ -885,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0504-base-7](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1033-broken-calculator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1033-broken-calculator) |
 | [1119-robot-bounded-in-circle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1119-robot-bounded-in-circle) |
