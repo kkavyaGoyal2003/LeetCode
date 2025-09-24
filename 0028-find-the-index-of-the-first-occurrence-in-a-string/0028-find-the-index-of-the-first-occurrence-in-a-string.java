@@ -8,17 +8,17 @@ class Solution {
             if(haystack.charAt(i) == needle.charAt(j)) {
                 i++;
                 j++;
+                if(j == n) return i-j;
             } else{
                 if(j == 0) {
                     i++;
                 } else {
-                    j = 0;
                     i = (i-j+1);
+                    j = 0;
                 }
             }
-            if(j == n) return i-j;
+            
         }
-
         return -1;
     }
 }
