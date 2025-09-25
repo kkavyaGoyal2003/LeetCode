@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [0944-smallest-range-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -888,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0944-smallest-range-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0944-smallest-range-i) |
 | [1033-broken-calculator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1033-broken-calculator) |
 | [1119-robot-bounded-in-circle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1236-n-th-tribonacci-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1236-n-th-tribonacci-number) |
