@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
+| [0830-largest-triangle-area](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0862-find-and-replace-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -892,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0504-base-7](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0830-largest-triangle-area](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0944-smallest-range-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0944-smallest-range-i) |
 | [1033-broken-calculator](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1033-broken-calculator) |
 | [1119-robot-bounded-in-circle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -1501,4 +1503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
