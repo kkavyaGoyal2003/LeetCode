@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1500-count-largest-group) |
 | [1585-the-kth-factor-of-n](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1585-the-kth-factor-of-n) |
@@ -1363,6 +1365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1755-defuse-the-bomb) |
