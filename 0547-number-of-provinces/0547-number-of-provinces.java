@@ -3,7 +3,7 @@ class Solution {
 
         int n = isConnected.length;
         int count = 0;
-        boolean[] visited = new boolean[n+1];
+        boolean[] visited = new boolean[n];
         for(int i = 0; i < n; i++) {
             if(!visited[i]) {
                 count++;
