@@ -924,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3567-convert-date-to-binary) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3817-maximum-containers-on-a-ship](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -1270,6 +1271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3311-ant-on-the-boundary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3311-ant-on-the-boundary) |
+| [3336-water-bottles-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3447-clear-digits) |
 | [3533-snake-in-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3533-snake-in-matrix) |
