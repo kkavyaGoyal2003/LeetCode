@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0031-next-permutation) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -807,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0720-longest-word-in-dictionary) |
