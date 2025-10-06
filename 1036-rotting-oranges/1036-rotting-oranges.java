@@ -1,11 +1,11 @@
 class Solution {
     public int orangesRotting(int[][] grid) {
         int m = grid.length;
-        int n =  grid[0].length;
-        Queue<Integer> que = new LinkedList<>();
-        int [][]dir = {{-1,0}, {1,0}, {0,-1}, {0,1}};
+        int n = grid[0].length;
+        int[][] dir = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
         int fresh = 0;
+        Queue<Integer> que = new LinkedList<>();
         for(int i = 0; i < m; i++) {
             for(int j = 0; j < n; j++) {
                 if(grid[i][j] == 1) fresh++;
@@ -19,25 +19,25 @@ class Solution {
         int time = 0;
         while(!que.isEmpty()) {
             int len = que.size()/2;
-            boolean flag = false;
-            for(int i = 0; i < len; i++) {
-                int r = que.poll();
-                int c = que.poll();
-                for(int[] d : dir) {
-                    int cr = d[0]+r;
-                    int cc = d[1]+c;
-                    if(cr >=0 && cr < m && cc >= 0 && cc < n && grid[cr][cc] == 1) {
+            for(int j = 0; j < len; j++) {
+                int cr = que.poll();
+                int cc = que.poll();
+                for(int[] d: dir) {
+                    int nr = cr + d[0];
+                    int nc = cc + d[1];
+
+                    if(nr >= 0 && nr < m && nc >= 0 && nc < n && grid[nr][nc] == 1) {
+                        grid[nr][nc] = 2;
                         fresh--;
-                        grid[cr][cc] = 2;
-                        que.add(cr);
-                        que.add(cc);
-                        flag = true;
+                        que.add(nr);
+                        que.add(nc);
                     }
                 }
             }
-            if(flag) time++;
+            if(!que.isEmpty()) time++;
         }
 
-        return fresh == 0 ? time : -1;
+        if(fresh == 0) return time;
+        return -1;
     }
 }
