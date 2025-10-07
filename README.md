@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -1028,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
