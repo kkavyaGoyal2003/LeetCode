@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1310-watering-plants) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1297-maximum-number-of-balloons) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
 | [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -513,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1454-remove-palindromic-subsequences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
