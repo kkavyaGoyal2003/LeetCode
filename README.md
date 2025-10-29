@@ -944,6 +944,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3279-alice-and-bob-playing-flower-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3567-convert-date-to-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -1166,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Brainteaser
 |  |
 | ------- |
