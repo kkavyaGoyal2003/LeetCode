@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2331-intersection-of-multiple-arrays) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2411-spiral-matrix-iv](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2551-apply-operations-to-an-array) |
