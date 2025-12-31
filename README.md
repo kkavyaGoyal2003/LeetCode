@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1310-watering-plants](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1310-watering-plants) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1232-sum-of-mutated-array-closest-to-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1232-sum-of-mutated-array-closest-to-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
