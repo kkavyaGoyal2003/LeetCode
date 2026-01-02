@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2756-buy-two-chocolates](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3334-apple-redistribution-into-boxes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3334-apple-redistribution-into-boxes) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
