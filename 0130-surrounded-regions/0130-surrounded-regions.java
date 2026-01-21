@@ -3,15 +3,46 @@ class Solution {
         int m = board.length;
         int n = board[0].length;
         boolean[][] change = new boolean[m][n];
-
+        Queue<Integer> que = new LinkedList<>();
         for(int i = 0; i < n; i++) {
-            if(board[0][i] == 'O' && !change[0][i]) dfs(board, change, 0, i);
-            if(board[m-1][i] == 'O' && !change[m-1][i]) dfs(board, change, m-1, i);
+            if(board[0][i] == 'O' )  {
+                change[0][i] = true;
+                que.add(0);
+                que.add(i);
+            }
+            if(board[m-1][i] == 'O')  {
+                change[m-1][i] = true;
+                que.add(m-1);
+                que.add(i);
+            }
         }
 
         for(int i = 1; i < m-1; i++) {
-            if(board[i][0] == 'O' && !change[i][0]) dfs(board, change, i, 0);
-            if(board[i][n-1] == 'O' && !change[i][n-1]) dfs(board, change, i, n-1);
+            if(board[i][0] == 'O') {
+                change[i][0] = true;
+                que.add(i);
+                que.add(0);
+            }
+            if(board[i][n-1] == 'O') {
+                change[i][n-1] = true;
+                que.add(i);
+                que.add(n-1);
+            }
+        }
+
+        int[][] dir = {{-1,0}, {1, 0}, {0,-1}, {0,1}};
+        while(!que.isEmpty()) {
+            int cr = que.poll();
+            int cc = que.poll();
+            for(int[] d: dir) {
+                int nr = d[0] + cr;
+                int nc = d[1] + cc;
+                if(nr >= 0 && nr < m && nc >= 0&& nc < n && !change[nr][nc] && board[nr][nc] == 'O') {
+                    change[nr][nc] = true;
+                    que.add(nr);
+                    que.add(nc);
+                }
+            }
         }
 
         for(int i = 0; i < m; i++) {
@@ -22,18 +53,4 @@ class Solution {
         }
     }
 
-    private void dfs(char[][] board, boolean[][] change, int r, int c) {
-        int m = board.length;
-        int n = board[0].length;
-        if(change[r][c]) return;
-        change[r][c] = true;
-        int[][] dir = {{-1, 0}, { 1, 0}, {0, -1}, {0, 1}};
-
-        for(int[] d : dir) {
-            int nr = r + d[0];
-            int nc = c + d[1];
-            if(nr >= 0 && nr < m  && nc >= 0 && nc < n && board[nr][nc] == 'O') dfs(board, change, nr, nc);
-        }
-
-    }
 }
