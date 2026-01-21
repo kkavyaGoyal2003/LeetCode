@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-verifying-an-alien-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1002-find-common-characters) |
 | [1019-squares-of-a-sorted-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1020-number-of-enclaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
+| [1020-number-of-enclaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1036-rotting-oranges) |
 | [1253-sort-the-matrix-diagonally](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1257,6 +1260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1035-cousins-in-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1597,4 +1601,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
