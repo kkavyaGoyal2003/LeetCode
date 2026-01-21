@@ -1,43 +1,39 @@
 class Solution {
-    boolean flag;
     public void solve(char[][] board) {
         int m = board.length;
         int n = board[0].length;
+        boolean[][] change = new boolean[m][n];
 
-        boolean[][] mat = new boolean[m][n];
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if (board[i][j] == 'O' && !mat[i][j]) {
-                    flag = false;
-                    List<int[]> cells = new ArrayList<>();
-                    dfs(board, mat, i, j, cells);
-                    if (!flag) {
-                        for (int[] cell : cells) {
-                            board[cell[0]][cell[1]] = 'X';
-                        }
-                    }
-                }
+        for(int i = 0; i < n; i++) {
+            if(board[0][i] == 'O' && !change[0][i]) dfs(board, change, 0, i);
+            if(board[m-1][i] == 'O' && !change[m-1][i]) dfs(board, change, m-1, i);
+        }
+
+        for(int i = 1; i < m-1; i++) {
+            if(board[i][0] == 'O' && !change[i][0]) dfs(board, change, i, 0);
+            if(board[i][n-1] == 'O' && !change[i][n-1]) dfs(board, change, i, n-1);
+        }
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(board[i][j] == 'X' || change[i][j]) continue;
+                board[i][j] = 'X';
             }
         }
     }
 
-    private void dfs(char[][] board, boolean[][] mat, int r, int c, List<int[]> cells) {
+    private void dfs(char[][] board, boolean[][] change, int r, int c) {
         int m = board.length;
         int n = board[0].length;
+        if(change[r][c]) return;
+        change[r][c] = true;
+        int[][] dir = {{-1, 0}, { 1, 0}, {0, -1}, {0, 1}};
 
-        if (r < 0 || r >= m || c < 0 || c >= n) return;
-        if (board[r][c] == 'X' || mat[r][c]) return;
-
-        if (r == 0 || c == 0 || r == m - 1 || c == n - 1) {
-            flag = true;
+        for(int[] d : dir) {
+            int nr = r + d[0];
+            int nc = c + d[1];
+            if(nr >= 0 && nr < m  && nc >= 0 && nc < n && board[nr][nc] == 'O') dfs(board, change, nr, nc);
         }
 
-        mat[r][c] = true;
-        cells.add(new int[]{r, c});
-
-        dfs(board, mat, r - 1, c, cells);
-        dfs(board, mat, r + 1, c, cells);
-        dfs(board, mat, r, c - 1, cells);
-        dfs(board, mat, r, c + 1, cells);
     }
 }
