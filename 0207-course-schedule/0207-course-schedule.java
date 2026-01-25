@@ -1,32 +1,34 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        if(prerequisites.length == 0) return true;
-        int[] depend = new int[numCourses];
-        
-        for(int i = 0; i < prerequisites.length; i++) {
-            depend[prerequisites[i][0]]  += 1;
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            adj.add(new ArrayList<>());
         }
 
-        Queue<Integer> que = new LinkedList<>();
+        for(int i = 0; i < prerequisites.length; i++){
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+            adj.get(v).add(u);
+        } 
+
+        int[] visited = new int[numCourses];
+        // 1 for cycle // 2 for checked
         for(int i = 0; i < numCourses; i++) {
-            if(depend[i] == 0) que.add(i);
+            if(dfs(i, visited, adj)) return false;
         }
-        if(que.size() == 0) return false;
-
-        while(!que.isEmpty()) {
-            int temp = que.poll();
-            for(int i = 0; i < prerequisites.length; i++) {
-                if(prerequisites[i][1] == temp)  {
-                    depend[prerequisites[i][0]]  -= 1;
-                    if(depend[prerequisites[i][0]]  == 0) que.add(prerequisites[i][0]);
-                } 
-            }
-        }
-        
-        for(int i = 0; i < numCourses; i++) {
-            if(depend[i]  != 0) return false;
-        }
-
         return true;
+    }
+
+    private boolean dfs(int u, int[] visited, ArrayList<ArrayList<Integer>> adj) {
+        if(visited[u] == 1) return true;
+        if(visited[u] == 2) return false;
+
+        visited[u] = 1;
+        ArrayList<Integer> temp = adj.get(u);
+        for(int v: temp) {
+            if(dfs(v, visited, adj)) return true;
+        }
+        visited[u] = 2;
+        return false;
     }
 }
