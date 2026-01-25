@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1944-truncate-sentence) |
 | [1945-finding-the-users-active-minutes](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1945-finding-the-users-active-minutes) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-arithmetic-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1752-arithmetic-subarrays) |
 | [1829-maximum-units-on-a-truck](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1970-sorting-the-sentence](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1970-sorting-the-sentence) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1448,6 +1450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1755-defuse-the-bomb) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
