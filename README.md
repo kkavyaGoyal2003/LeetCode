@@ -1611,5 +1611,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
