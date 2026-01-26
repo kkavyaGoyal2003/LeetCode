@@ -2,44 +2,35 @@ class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         int n = numCourses;
 
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        List<List<Integer>> adj = new ArrayList<>();
         for(int i = 0; i < n; i++) {
             adj.add(new ArrayList<>());
         }
-
-        for(int[] p : prerequisites) {
+    
+        int[] indegree = new int[n];
+        for(int[] p: prerequisites){
             adj.get(p[1]).add(p[0]);
+            indegree[p[0]] += 1;
         }
 
-        boolean[] visited = new boolean[n];
-        boolean[] p_visited = new boolean[n];
-        ArrayList<Integer> order = new ArrayList<>();
-        for(int i = 0; i < n; i++) {
-            if(!visited[i]) {
-                if(dfs(i, visited, p_visited, adj, order)) return new int[]{};
+        int i = 0;
+        int[] order = new int[n];
+        Queue<Integer> que = new LinkedList<>();
+        for(int j = 0; j < n; j++) {
+            if(indegree[j] == 0) que.add(j);
+        }
+
+        while(!que.isEmpty()) {
+            int u = que.poll();
+            order[i] = u;
+            i++;
+
+            for(int v: adj.get(u)) {
+                indegree[v] -= 1;
+                if(indegree[v] == 0) que.add(v);
             }
-
         }
-
-        int[] ans = new int[n];
-        for(int i = order.size()-1; i >= 0; i--) {
-            ans[n-1-i] = order.get(i);
-        }
-        return ans;
-    }
-
-    private boolean dfs(int i, boolean[] visited, boolean[] p_visited, ArrayList<ArrayList<Integer>> adj, ArrayList<Integer> order) {
-        if(p_visited[i]) return true;
-        if(visited[i]) return false;
-        visited[i] = true;
-        p_visited[i] = true;
-
-        for(int v : adj.get(i)) {
-            if(dfs(v, visited, p_visited, adj, order)) return true;
-        }
-        p_visited[i] = false;
-        order.add(i);
-        
-        return false;
+        if(i == n) return order;
+        return new int[] {};
     }
 }
