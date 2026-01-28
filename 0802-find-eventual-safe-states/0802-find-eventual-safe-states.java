@@ -6,39 +6,34 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
+        int[] outdegree = new int[n];
         for(int i = 0; i < n; i++) {
-            for(int j = 0; j < graph[i].length; j++){
-                adj.get(i).add(graph[i][j]);
+            for(int j = 0; j < graph[i].length; j++) {
+                int v = graph[i][j];
+                adj.get(v).add(i);
             }
+            outdegree[i] = graph[i].length;
         }
 
-        int[] visited = new int[n];
-        boolean[] safe = new boolean[n];
-
+        Queue<Integer> que = new LinkedList<>();
         for(int i = 0; i < n; i++) {
-            if(visited[i]==0) dfs(i,adj, visited, safe);
+            if(outdegree[i] == 0) que.add(i);
         }
 
         List<Integer> ans = new ArrayList<>();
-        for(int i = 0; i < n; i++) {
-            if(safe[i] == true) ans.add(i);
+        while(!que.isEmpty()) {
+            int v = que.poll();
+            ans.add(v);
+
+            for(int u: adj.get(v)) {
+                outdegree[u] -= 1;
+                if(outdegree[u] == 0) que.add(u);
+            }
+
         }
+
+        Collections.sort(ans);
         return ans;
     }
 
-    private boolean dfs(int u, List<List<Integer>> adj, int[] visited, boolean[] safe) {
-        
-        if(visited[u] == 1) return false;
-        if(visited[u] == 2) return true;
-        visited[u] = 1;
-
-        for(int v : adj.get(u)) {
-            if(!dfs(v, adj, visited, safe)) return false;
-        }
-        visited[u] = 2;
-        safe[u] = true;
-
-        return true;
-    }
-    
 }
