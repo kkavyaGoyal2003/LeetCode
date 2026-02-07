@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2756-buy-two-chocolates](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -1625,4 +1627,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0802-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
