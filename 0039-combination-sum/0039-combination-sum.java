@@ -11,8 +11,6 @@ class Solution {
         }
         if(target < 0 || ind == candidates.length) return;
 
-        
-
         path.add(candidates[ind]);
         countPairs(candidates, target - candidates[ind], ind, path);
         path.remove(path.size() - 1);
