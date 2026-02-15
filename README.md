@@ -498,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0079-word-search) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0189-rotate-array) |
@@ -1198,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -1328,6 +1331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
