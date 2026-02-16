@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2107-find-unique-binary-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2128-reverse-prefix-of-word](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2047-find-a-peak-element-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -987,6 +990,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2481-strictly-palindromic-number](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2481-strictly-palindromic-number) |
