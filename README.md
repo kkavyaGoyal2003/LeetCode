@@ -1220,6 +1220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1839-decode-xored-array) |
