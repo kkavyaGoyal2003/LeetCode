@@ -1226,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
+| [1009-complement-of-base-10-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1839-decode-xored-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1839-decode-xored-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
