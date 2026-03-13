@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0830-largest-triangle-area](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0862-find-and-replace-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0862-find-and-replace-in-string) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0733-flood-fill) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0832-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0898-transpose-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0967-minimum-falling-path-sum) |
@@ -1095,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0768-partition-labels) |
+| [0832-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0958-sort-array-by-parity-ii) |
@@ -1225,6 +1228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1352,6 +1356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0832-flipping-an-image) |
 | [0861-flipping-an-image](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
