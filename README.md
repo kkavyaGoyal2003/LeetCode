@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -876,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2737-row-with-maximum-ones) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3691-minimum-operations-to-make-columns-strictly-increasing](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3691-minimum-operations-to-make-columns-strictly-increasing) |
@@ -1516,6 +1518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3311-ant-on-the-boundary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3704-count-partitions-with-even-sum-difference) |
