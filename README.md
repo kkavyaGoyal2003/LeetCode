@@ -548,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0974-reorder-data-in-log-files) |
 | [0990-verifying-an-alien-dictionary](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0990-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1119-robot-bounded-in-circle](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1156,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0933-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1072-next-greater-node-in-linked-list](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -1671,4 +1673,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
