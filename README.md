@@ -1660,6 +1660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
@@ -1667,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/kkavyaGoyal2003/LeetCode/tree/master/0802-find-eventual-safe-states) |
 ## Enumeration
